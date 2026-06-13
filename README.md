@@ -1,2 +1,2 @@
 # FreeRTOS-LED-chaser
-Two tasks competing to turn LEDs on and off with ESP32 
+This code was created when i practiced using FreeRTOS with PlatformIO and Wokwi Simulator. 
